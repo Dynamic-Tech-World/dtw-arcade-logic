@@ -54,5 +54,6 @@ All rights reserved. The source code is kept private to protect Intellectual Pro
 
 ---
 ## ☕ Support the Lab
-If you appreciate the logic and engineering behind these games, consider supporting our work:
-[**Donate via Buy Me a Coffee**](https://buymeacoffee.com/dynamictechworld)
+If you find these tools useful, consider supporting our production costs.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dynamictechworld)
